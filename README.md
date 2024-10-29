@@ -48,6 +48,11 @@ Feature engineering is crucial in this project, as it enhances model performance
 3. **Blood Pressure Categories**: Simplifying continuous blood pressure readings into categories for better model interpretability.
 4. **Cholesterol Ratio and Liver Enzyme Ratio**: Ratios capturing lipid and liver health, both potentially impacted by smoking.
 
+### Feature Importance
+![Feature Importance](image-1.png)
+
+*This chart highlights the most influential features identified by the model, which contribute significantly to predicting smoking status.*
+
 ## Modeling Approach
 
 The project employs a **stacking ensemble model** combining the strengths of several classifiers, specifically:
@@ -105,3 +110,5 @@ After training, the model achieved:
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
 
 ## License
+
+This project is licensed under the MIT License.
