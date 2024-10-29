@@ -74,6 +74,7 @@ Model performance is assessed using **ROC-AUC** to measure classification effect
 
 ### ROC-AUC Curve
 ![ROC-AUC Curve](image.png)
+![alt text](image-2.png)
 
 *This ROC-AUC curve represents the classifier’s ability to distinguish between smokers and non-smokers, showing the trade-off between true positive and false positive rates.*
 
