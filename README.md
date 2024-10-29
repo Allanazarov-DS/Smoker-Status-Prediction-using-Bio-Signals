@@ -1,6 +1,5 @@
-# Smoker Status Prediction Using Bio-Signals
-
 ![alt text](image-4.png)
+# Smoker Status Prediction Using Bio-Signals
 
 ## Project Overview
 
