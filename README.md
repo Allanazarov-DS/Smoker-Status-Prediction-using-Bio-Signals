@@ -1,5 +1,7 @@
 # Smoker Status Prediction Using Bio-Signals
 
+![alt text](image-3.png)
+
 ## Project Overview
 
 This project aims to predict individuals' smoking status using various bio-signal features, leveraging machine learning models to classify participants as smokers or non-smokers. The dataset encompasses biometric, biochemical, and clinical features commonly associated with lifestyle habits and health status. By building an effective predictive model, this project offers insights into health patterns correlated with smoking status, potentially aiding healthcare providers in identifying individuals at risk.
