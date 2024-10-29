@@ -102,8 +102,8 @@ python predict.py --input test_data.csv --output predictions.csv
 
 After training, the model achieved:
 
-- **Validation ROC-AUC**: 0.981
-- **Test ROC-AUC**: Targeting 0.99 for robust classification performance.
+- **Validation ROC-AUC**: 0.0.8888831939010476
+- **Test ROC-AUC**: Targeting 0.89 for robust classification performance.
 
 ## Contributing
 
