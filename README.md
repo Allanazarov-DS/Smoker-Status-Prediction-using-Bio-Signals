@@ -73,7 +73,6 @@ A stacking approach allows blending individual model predictions to create a fin
 Model performance is assessed using **ROC-AUC** to measure classification effectiveness in distinguishing smokers from non-smokers. The goal is to reach or exceed a **ROC-AUC score of 0.99**, indicating high model accuracy.
 
 ### ROC-AUC Curve
-![ROC-AUC Curve](image.png)
 ![alt text](image-2.png)
 
 *This ROC-AUC curve represents the classifier’s ability to distinguish between smokers and non-smokers, showing the trade-off between true positive and false positive rates.*
